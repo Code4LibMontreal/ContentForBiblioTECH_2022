@@ -16,11 +16,14 @@ This repository contains all the notes for the workshops given in BiblioTECH 202
   * [McGill](https://www.mcgill.ca/it/o365)
   * [UdeM](https://bib.umontreal.ca/public/bib/soutien-informatique/OFF365-installation.pdf)
 * If you don't have access to it, please reach out to someone on the BiblioTECH organizing committee.
+* For the workshop, you will need to download a dataset. [Click here to download the dataset.](https://ndownloader.figshare.com/files/11502815)
 ##### Français
 * Vous devriez avoir accès à Excel à travers votre université:
   * [McGill](https://www.mcgill.ca/it/o365)
   * [UdeM](https://bib.umontreal.ca/public/bib/soutien-informatique/OFF365-installation.pdf)
 * Si vous n'y avez pas accès, veuillez contacter un membre du comité organisateur de BiblioTECH
+* Pour l'atelier, vous devez télécharger un document de données. [Cliquez ici pour les télécharger.](https://ndownloader.figshare.com/files/11502815)
+
 
 ## OpenRefine
 ##### English
